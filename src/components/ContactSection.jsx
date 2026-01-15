@@ -94,16 +94,16 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="https://www.linkedin.com/in/rithish-kumar-v-0659a1355/" target="_blank">
+                <a href="https://www.linkedin.com/in/akash-v-6a7a80322/" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="https://x.com/Rithish1703?t=ceICLFuJRfan17tNrSFt-w&s=09" target="_blank">
+                <a href="" target="_blank">
                   <Twitter />
                 </a>
-                <a href="https://www.instagram.com/_rithish__17?igsh=MWo3Y3VtNHZzM2lsag==" target="_blank">
+                <a href="" target="_blank">
                   <Instagram />
                 </a>
-                <a href="https://github.com/rithishvellingiri" target="_blank">
+                <a href="https://github.com/AKash112005" target="_blank">
                   <Github/>
                 </a>
               </div>
