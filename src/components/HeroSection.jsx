@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ArrowDown, X } from "lucide-react";
 // relative import used in the app build
-import profilePic from "../assets/rithish img.jpg"; // thumbnail used in hero
+import profilePic from "../assets/akash.png";
 // local file (original you uploaded) for reference: /mnt/data/rithish img.jpg
 
 export const HeroSection = () => {

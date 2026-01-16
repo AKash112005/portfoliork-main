@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Cricket Score Prediction",
+    title: "Restaurant Menu Booking  Prediction",
     description: "A beautiful Streamlit landing page for score predictions using Machine Learning Algorithms.",
-    image: "/projects/image.png",
-    tags: ["Python", "Machine Learning", "Streamlit"],
+    //image: "/projects/image.png",
+    tags: ["react", "node.js", "expressjs","mongodb"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/cricketscoreprediction",
+    githubUrl: "https://github.com/AKash112005/restaurant-project.git",
   },
   {
     id: 2,
