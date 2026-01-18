@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ArrowDown, X } from "lucide-react";
 // relative import used in the app build
-import profilePic from "../assets/akash.png";
+import profilePic from "../assets/IMG_7157.png";
 // local file (original you uploaded) for reference: /mnt/data/rithish img.jpg
 
 export const HeroSection = () => {
@@ -27,7 +27,7 @@ export const HeroSection = () => {
           <div className="flex justify-center opacity-0 animate-fade-in">
             <img
               src={profilePic}
-              alt="Rithish Kumar"
+              alt="Akash V"
               onClick={() => setOpen(true)}
               loading="lazy"
               className="

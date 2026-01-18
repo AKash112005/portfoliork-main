@@ -12,7 +12,7 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer
+              Passionate Salesforce, Cloud & DevOps Engineer
             </h3>
 
             <p className="text-muted-foreground">
@@ -34,7 +34,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1IeKFaqU2i_9xOmrCP0o_9haWokexrEGe/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1OoqTH8Z5xw0K22rpeAIHOpqGv9dIUlfL/view?usp=sharing"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
@@ -49,10 +49,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg"> AI Agentforce Champion</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Designing and deploying intelligent AI agents that automate workflows, enhance customer engagement, and deliver real business impact using Agentforce and modern AI tools..
                   </p>
                 </div>
               </div>
@@ -63,11 +62,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Machine Learning Enthusiast</h4>
+                  <h4 className="font-semibold text-lg">Amazon Web Services </h4>
                   <p className="text-muted-foreground">
-                    Passionate about building predictive models, exploring datasets, and
-                    developing intelligent systems that can learn and make data-driven
-                    decisions.
+                    Building scalable, secure, and high-performance cloud solutions on AWS, including deployment, automation, monitoring, and cost-optimized infrastructure.
                   </p>
                 </div>
               </div>
@@ -81,8 +78,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Project Management</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Driving projects from strategy to delivery by coordinating teams, managing timelines, and applying Agile best practices to ensure successful outcomes
                   </p>
                 </div>
               </div>

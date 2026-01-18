@@ -5,10 +5,10 @@ const projects = [
     id: 1,
     title: "Restaurant Menu Booking  Prediction",
     description: "A beautiful Streamlit landing page for score predictions using Machine Learning Algorithms.",
-    //image: "/projects/image.png",
+    image: "/projects/hotel.png",
     tags: ["react", "node.js", "expressjs","mongodb"],
     demoUrl: "#",
-    githubUrl: "https://github.com/AKash112005/restaurant-project.git",
+    //githubUrl: "https://github.com/AKash112005/restaurant-project.git",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/image copy.png",
     tags: ["Python ","HTML"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/predictiveanalytics",
+    //githubUrl: "https://github.com/rithishvellingiri/predictiveanalytics",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/image copy 2.png",
     tags: ["React", "Node.js", "Angular","Typescript","MongoDB"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/inventory-management-prp-",
+    //githubUrl: "https://github.com/rithishvellingiri/inventory-management-prp-",
   },
   {
     id: 4,
@@ -38,7 +38,7 @@ const projects = [
     image: "/projects/image copy 3.png",
     tags: ["NLP", "Tensorflow","Python", "Streamlit"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/chatbot-nlp",
+    //githubUrl: "https://github.com/rithishvellingiri/chatbot-nlp",
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const projects = [
     image: "/projects/image copy 4.png",
     tags: ["Machine Learning","Python", "Streamlit"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/injury-prediction-for-soccer",
+    //githubUrl: "https://github.com/rithishvellingiri/injury-prediction-for-soccer",
   },
   {
     id: 6,
@@ -58,7 +58,7 @@ const projects = [
     image: "/projects/image copy 5.png",
     tags: ["Predictive Analytics","Machine Learning", "Python","Streamlit"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/ibm-hr-analytics",
+    //githubUrl: "https://github.com/rithishvellingiri/ibm-hr-analytics",
   },
   {
     id: 7,
@@ -68,7 +68,7 @@ const projects = [
     image: "/projects/image copy 6.png",
     tags: ["Machine Learning" ,"flask","Python"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/language-translator",
+    //githubUrl: "https://github.com/rithishvellingiri/language-translator",
   },
 ];
 

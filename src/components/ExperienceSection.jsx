@@ -2,23 +2,23 @@ import { Briefcase } from "lucide-react";
 
 const experiences = [
   {
-    role: "Data Analysis Intern",
-    company: "Cognifyz Technologies",
-    duration: "Dec 2025 – Jan 2026",
+    role: "AWS Intern",
+    company: "F13 Technologies",
+    duration: " Ongoing",
     description: [
-      "Working on data preprocessing, data manipulation, and statistical analysis using Python to extract insights from large datasets and support data-driven decision-making.",
-      "Contributing  to building data visualizations, cleaning workflows, and exploratory analysis, helping transform raw data into meaningful business insights for real-world problem solving.",
-      "Building visualizations using Matplotlib and Seaborn to support data-driven insights."
+      "Assisting in the deployment and management of cloud infrastructure on AWS.",
+      "Gaining hands-on experience with AWS services such as EC2, S3, Lambda, and CloudFormation.",
+      "Collaborating with the DevOps team to implement best practices for cloud security and cost optimization."
     ]
   },
   {
-    role: "Python Developer Intern",
-    company: "Certify Technologies",
-    duration: "Nov 2025 – Dec 2025",
+    role: "Cloud DevOps Intern",
+    company: "Mavenly",
+    duration: "September 2025 – October 2026",
     description: [
-      "Worked on developing and optimizing Python-based applications.",
-      "Focused in script automation, data handling, and backend logic implementation.",
-      "Implemented API integration, automation tasks, and data workflows while debugging issues and improving system efficiency."
+      "Assisted in designing, implementing, and maintaining CI/CD pipelines using Jenkins and GitHub Actions.",
+      "Worked on infrastructure automation using Terraform and managed containerized applications with Docker and Kubernetes.",
+      "Collaborated with cross-functional teams to deploy and monitor cloud-based solutions on AWS and Azure."
     ]
   }
 ];
