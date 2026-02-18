@@ -47,7 +47,14 @@ export const CertificationsSection = () => {
       name: "Digital Sovereignty on AWS",
       issuer: "AWS",
       link: "https://drive.google.com/file/d/11BBkGptDpii2AKI0Y9KilT5co-NEt2AK/view?usp=drive_link"
+    },
+    {
+      name: "Gemini Certified student",
+      issuer: "Google education",
+      link: "https://drive.google.com/file/d/1IKFnBAviA6LCLru9pGkzH5zxMrIh2tsO/view?usp=sharing"
     }
+
+
   ];
 
   return (
