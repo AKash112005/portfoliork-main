@@ -62,7 +62,7 @@ src/
 
 
 ##Clone the repo
-```bash
+`bash
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
 
