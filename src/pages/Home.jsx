@@ -9,6 +9,7 @@ import { ProjectsSection } from "../components/ProjectsSection";
 import { ContactSection } from "../components/ContactSection";
 import { CertificationsSection } from "../components/CertificationsSection";
 import { Footer } from "../components/Footer";
+import { ChatBot } from "@/components/ChatBot";
 
 export const Home = () => {
   return (
@@ -17,6 +18,9 @@ export const Home = () => {
       <ThemeToggle />
       {/* Background Effects */}
       <StarBackground />
+
+      {/* AI Chatbot */}
+      <ChatBot />
 
       {/* Navbar */}
       <Navbar />
